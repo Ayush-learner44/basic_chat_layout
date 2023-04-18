@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/mui-basic-chat/static/js/main.6f3bdc2e.js",
+    "index.html": "/mui-basic-chat/index.html",
+    "main.6f3bdc2e.js.map": "/mui-basic-chat/static/js/main.6f3bdc2e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6f3bdc2e.js"
+  ]
+}
